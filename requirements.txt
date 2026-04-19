@@ -11,3 +11,10 @@ python-dotenv
 psycopg2
 psycopg2-binary
 beautifulsoup4
+joblib
+pandas
+numpy
+yfinance
+scikit-learn
+tensorflow
+requests
